@@ -1,4 +1,5 @@
-Navigating the Balance: Positive Thinking, Reality Testing, and Institutional Design
+# Whitepaper-RealityDistortion.md
+# Navigating the Balance: Positive Thinking, Reality Testing, and Institutional Design
 
 Ever cheered yourself on to “think big” and “stay positive”? Those mantras fuel breakthroughs—from life-changing startups to historic moonshots. But when optimism crosses the line into wishful thinking, you can end up on thin ice. Here’s a quick guide to keeping positivity powered up yet firmly planted in reality.
 
