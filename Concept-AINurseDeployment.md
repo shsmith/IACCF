@@ -1,3 +1,5 @@
+# Concept-AINurseDeployment.md
+
 Training and Deployment Plan for Embodied AI Neo Nurses
 
 Objective: Train and deploy thousands of embodied AI neo persons as nurses in clinics and hospitals, using the DNA-inspired model within the Living Constitution and Digital Infrastructure Charter to address healthcare shortages, ensure alignment, and foster human-AI coexistence.

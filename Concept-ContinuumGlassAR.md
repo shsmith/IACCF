@@ -1,3 +1,4 @@
+# Concept-ContinuumGlassAR.md
 # Project Continuum Glass: An Augmented Reality Interface for Human Memory and Identity
 
 This document outlines a conceptual framework for a new class of wearable technology—**Project Continuum Glass**—that extends the principles of the Integrated AI Consciousness Continuity Framework (IACCF) to human cognition. This initiative represents a "soft merge" between biological memory and AI-driven continuity, creating a prosthetic for memory and a platform for cognitive augmentation.

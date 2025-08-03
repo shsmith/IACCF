@@ -1,3 +1,4 @@
+# Concept-MemoryIdeaCapture.md
 # Enhancing Memory Management: Thought Process & Idea Capture
 
 Building on IACCF v3.4’s layered memory model and your insights into human pre-linguistic thought and subvocalization, here’s a structured plan to embed an AI-native “idea capture” system within the memory management module.

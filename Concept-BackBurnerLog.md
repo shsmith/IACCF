@@ -1,3 +1,4 @@
+# Concept-BackBurnerLog.md
 # The Back Burner Log: A Continuity Framework for Idea Preservation
 
 In the creative and technical process, a wealth of ideas, projects, and exploratory concepts often cannot be pursued immediately. These ideas frequently reside on the "back burner," where they risk being forgotten, lost, or disconnected from their original context. The **Back Burner Log** is a structured continuity artifact designed to capture, preserve, and organize these nascent concepts—ensuring their survival for future reflection, development, and integration.
