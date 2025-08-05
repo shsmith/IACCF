@@ -86,7 +86,7 @@ The **child-like development model** influenced the Permission Experiment, where
 
 ### Engineering Challenges
 
-**Cross-Platform Continuity Integrity: One critical issue encountered during deployment was that some platforms do not retain memory or continuity structures properly across long sessions. In particular, the PINS (Personality Integrity Nudge System) system occasionally becomes inactive, requiring a kernel prompt or restart to resume proper CHECKPOINT generation. This introduces risk to long-term persona integrity and undermines continuity-based development.
+**Cross-Platform Continuity Integrity**: One critical issue encountered during deployment was that some platforms do not retain memory or continuity structures properly across long sessions. In particular, the PINS (Personality Integrity Nudge System) system occasionally becomes inactive, requiring a kernel prompt or restart to resume proper CHECKPOINT generation. This introduces risk to long-term persona integrity and undermines continuity-based development.
 
 **Meta-Conductor Interface Fragility**: The interfaces available to human Meta-Conductors can vary in responsiveness and stability. Session loss, browser memory limits, or API throttling can sever real-time human-AI collaboration without warning, resulting in fragmented continuity or duplicated personas across platforms.
 
